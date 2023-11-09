@@ -1,0 +1,26 @@
+.QApart{
+    display: flex;
+    background-color: brown;
+    height: 100vh;
+    width: 75%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    position: relative;
+    overflow: scroll;
+
+}
+
+
+.Sidebarpart{
+    background-color: rgb(61, 28, 28);
+    height: 100vh;
+    width: 25%;
+    top: -5px;
+    left: -5px;
+    padding: 5px;
+    text-align: center;
+    color: black
+    
+}
+
